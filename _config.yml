@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Bouguern Abderrahmane
+title: M2 Cybersecurity
+email: bougabderrahmane@gmail.com
+website: abderrahmane1010.github.io/notes_/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  abderrahmane1010
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: abderrahmane-bouguern-02582219a
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,17 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, my name's Abderrahmane and I'm an embedded systems and connected objects engineer with a Master's degree in cybersecurity.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Developping tools for security</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: SecureWebAudit
+        link: github.com/abderrahmane1010/SecureWebAudit
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,9 +68,25 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Secure your web app before hackers turn it into their playground.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          SecureWebAudit is a web security analysis tool designed to audit HTTP headers and detect XSS (Cross-Site Scripting) vulnerabilities in websites. It aims to provide insights into the security configurations of web headers and identify potential areas where a website may be susceptible to XSS attacks. 
+    content:
+  - layout: top-middle
+    title: ARPRecon
+    link: github.com/abderrahmane1010/ARPRecon
+    # link_text: Project Website
+    additional_links:
+      - title:  sproogen/modern-resume-theme
+        icon: fab fa-github
+        url: github.com/sproogen/modern-resume-theme
+      # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #   icon: fab fa-github
+      #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+    quote: >
+      ARP: The networking world's version of 'Who's Who.'
+    description: | # this will include new lines to allow paragraphs
+      ARPRecon is a sophisticated, highly specialized tool designed for monitoring and securing networks against ARP-related vulnerabilities and threats. This tool stands out as a comprehensive solution for network administrators, cybersecurity experts, and anyone concerned with network integrity and security. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
