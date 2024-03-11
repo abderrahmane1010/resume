@@ -71,22 +71,21 @@ content:
           Secure your web app before hackers turn it into their playground.
         description: | # this will include new lines to allow paragraphs
           SecureWebAudit is a web security analysis tool designed to audit HTTP headers and detect XSS (Cross-Site Scripting) vulnerabilities in websites. It aims to provide insights into the security configurations of web headers and identify potential areas where a website may be susceptible to XSS attacks. 
-    content:
-  - layout: top-middle
-    title: ARPRecon
-    link: github.com/abderrahmane1010/ARPRecon
-    # link_text: Project Website
-    additional_links:
-      - title:  sproogen/modern-resume-theme
-        icon: fab fa-github
-        url: github.com/sproogen/modern-resume-theme
-      # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #   icon: fab fa-github
-      #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-    quote: >
-      ARP: The networking world's version of 'Who's Who.'
-    description: | # this will include new lines to allow paragraphs
-      ARPRecon is a sophisticated, highly specialized tool designed for monitoring and securing networks against ARP-related vulnerabilities and threats. This tool stands out as a comprehensive solution for network administrators, cybersecurity experts, and anyone concerned with network integrity and security. 
+      - layout: top-middle
+        title: ARPRecon
+        link: github.com/abderrahmane1010/ARPRecon
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          ARP: The networking world's version of 'Who's Who.'
+        description: | # this will include new lines to allow paragraphs
+          ARPRecon is a sophisticated, highly specialized tool designed for monitoring and securing networks against ARP-related vulnerabilities and threats. This tool stands out as a comprehensive solution for network administrators, cybersecurity experts, and anyone concerned with network integrity and security. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
