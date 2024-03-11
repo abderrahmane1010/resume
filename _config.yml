@@ -91,16 +91,56 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: The Verimag Laboratory 
+        link: https://www-verimag.imag.fr/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Software Security Code Analyst Engineer
+        caption: Sep 2022 - Feb 2024
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Analyzing code for security is like peering into the DNA of a digital organism to safeguard its health in the cyber ecosystem.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            Specialized in analyzing software code for security vulnerabilities.
+            Conducted in-depth assessments of code to identify and mitigate potential security risks.
+            Focused on the analysis of software protections against physical attacks, including fault injection and auxiliary channel attacks.
+            Utilized LLVM (Low Level Virtual Machine) for comprehensive analysis at the code level.
+            Developed solutions in C++ using the LLVM API, implementing countermeasure passes for enhanced security.
+            Applied symbolic execution (KLEE Symbolic Execution Engine) for thorough path exploration and vulnerability detection.
+      - layout: left
+        title: The Verimag Laboratory 
+        link: https://www-verimag.imag.fr/
+        # link_text: boringcompany.com
+        sub_title: PFE Software-Based Fault Injection Countermeasures Analysis
+        caption: Jan 2022 - Sep 2022
+        quote: >
+          Research: where the curious go to play, the dedicated go to work, and the persistent go to discover
+        description: | # this will include new lines to allow paragraphs
+            Conducted analysis of software protections against physical attacks, specifically focusing on fault injection and auxiliary channel attacks.
+            Applied attack techniques, including fault injections and auxiliary channel attacks.
+            Performed analysis at the LLVM (Low Level Virtual Machine) level.
+            Developed solutions in C++ using the LLVM API.
+            Implemented countermeasure passes for protection against fault injections.
+            Analyzed C-level code for vulnerability assessment.
+            Utilized symbolic execution (KLEE Symbolic Execution Engine) for path exploration.
+      - layout: left
+        title: ARYLINK
+        link: https://arlynk.com/
+        # link_text: boringcompany.com
+        sub_title: Full-Stack Developer - MERN Stack
+        caption: Jun 2021 - Sep 2021
+        quote: >
+          MERN stack: Uniting the web's building blocks for powerful full stack development
+        description: | # this will include new lines to allow paragraphs
+          Utilized the MERN (MongoDB, Express.js, React, Node.js) stack to develop the "Help Center" platform.
+      - layout: left
+        title: Opinaka
+        link: https://home.opinaka.com/home/
+        # link_text: boringcompany.com
+        sub_title: Front-End Development
+        caption: Jun 2020 - Aug 2022
+        quote: >
+          React: Empowering developers to build dynamic and delightful user interfaces with ease.
+        description: | # this will include new lines to allow paragraphs
+          Conducted in-depth study on JavaScript frameworks, with a focus on React, for the implementation of visualization models. Executed integration and visualization of JavaScript scripts utilizing Kibana and Elasticsearch.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
