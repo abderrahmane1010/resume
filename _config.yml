@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Abderrahmane and I'm an embedded systems and connected objects engineer with a Master's degree in cybersecurity.
 
-  I am most skilled in: <mark>Pentesting</mark>, <mark>Developing tools for security</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Compilers</mark>, <mark>Developing tools for security</mark> and <mark>Pentesting</mark>
 
 content:
   - title: Projects # Title for the section
