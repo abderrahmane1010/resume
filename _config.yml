@@ -50,13 +50,13 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Abderrahmane and I'm an embedded systems and connected objects engineer with a Master's degree in cybersecurity.
 
-  I am most skilled in: <mark>Compilers</mark>, <mark>Developing tools for security</mark> and <mark>Pentesting</mark>
+  I am most skilled in: <mark>Developing tools for security</mark>, <mark>Compilers</mark> and <mark>Pentesting</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: top-middle
+      - layout: top-middle
         title: Development for a Java-Like Object-Oriented Language Compiler
         link: github.com/abderrahmane1010/SecureWebAudit
         # link_text: Project Website
