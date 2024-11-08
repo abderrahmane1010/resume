@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Development for a Java-Like Object-Oriented Language Compiler
+        title: Front-End Development for a Java-Like Object-Oriented Language Compiler
         link: github.com/abderrahmane1010/SecureWebAudit
         # link_text: Project Website
         additional_links:
