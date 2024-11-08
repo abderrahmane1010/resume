@@ -107,7 +107,6 @@ content:
           React: Empowering developers to build dynamic and delightful user interfaces with ease.
         description: | # this will include new lines to allow paragraphs
           Conducted in-depth study on JavaScript frameworks, with a focus on React, for the implementation of visualization models. Executed integration and visualization of JavaScript scripts utilizing Kibana and Elasticsearch.
-  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
